@@ -42,7 +42,9 @@ class DetailsViewController: UIViewController {
     
     @IBAction func onButtonPress(_ sender: Any) {
         if let url = URL(string: self.movie.itunesLink!) {
-            UIApplication.shared.canOpenURL(url)
+            UIApplication.shared.open(url, options: [:], completionHandler: { (nil) in
+                print("Opened Link")
+            })
         }
     }
 

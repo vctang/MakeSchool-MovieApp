@@ -13,9 +13,17 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
 
     var window: UIWindow?
 
-
     func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplicationLaunchOptionsKey: Any]?) -> Bool {
         // Override point for customization after application launch.
+        
+        let customYellow = UIColor(red: 243/255, green: 203/255, blue: 73/255, alpha: 1)
+        
+        UINavigationBar.appearance().barTintColor = UIColor.black
+        UINavigationBar.appearance().tintColor = customYellow
+        UINavigationBar.appearance().titleTextAttributes = [NSForegroundColorAttributeName: customYellow]
+        
+        application.statusBarStyle = .lightContent
+        
         return true
     }
 

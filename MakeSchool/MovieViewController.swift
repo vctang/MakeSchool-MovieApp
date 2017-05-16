@@ -53,7 +53,7 @@ class MovieViewController: UIViewController {
     // Deselect tableView cell
     override func viewWillAppear(_ animated: Bool) {
         if let index = self.tableView.indexPathForSelectedRow{
-            self.tableView.deselectRow(at: index, animated: true)
+            self.tableView.deselectRow(at: index, animated: false)
         }
     }
     
