@@ -1,7 +1,7 @@
 # MakeSchool - *iTunes Movie Challenge*
 
 Time spent: 
-**6** hours spent in total
+**7** hours spent in total
 
 ## Submission Information
 - Name: Vicky Tang
@@ -15,6 +15,9 @@ The following **required** functionality is complete:
 - [X] User can view a list of 25 movies from the iTunes API.
 - [X] User can view the movie poster, title, release date, and price of a movie.
 - [X] User can view movie details by tapping on a cell.
+
+The following **additional** functionality is complete:
+- [X] Small UI update to black/yellow theme
 
 ## Video Walkthrough 
 
