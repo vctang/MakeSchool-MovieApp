@@ -23,9 +23,9 @@ The following **additional** functionality is complete:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/I2ol9T7.gif' title='Video Walkthrough Week 1' width='' alt='Video Walkthrough' />
+<img src='http://i.imgur.com/mgeHPP4.gif' title='Video Walkthrough Week 1' width='' alt='Video Walkthrough' />
 
-[Link to GIF Walkthrough](http://i.imgur.com/n0J5kwT.gif)
+[Link to GIF Walkthrough](http://i.imgur.com/mgeHPP4.mp4)
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
